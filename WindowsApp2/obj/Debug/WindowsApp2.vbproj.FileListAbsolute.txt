@@ -1,0 +1,97 @@
+C:\Users\lparedi\source\repos\WindowsApp2\WindowsApp2\bin\Debug\WindowsApp2.exe.config
+C:\Users\lparedi\source\repos\WindowsApp2\WindowsApp2\bin\Debug\WindowsApp2.exe
+C:\Users\lparedi\source\repos\WindowsApp2\WindowsApp2\bin\Debug\WindowsApp2.pdb
+C:\Users\lparedi\source\repos\WindowsApp2\WindowsApp2\bin\Debug\WindowsApp2.xml
+C:\Users\lparedi\source\repos\WindowsApp2\WindowsApp2\obj\Debug\Interop.MBT1ReceiverLibLib.dll
+C:\Users\lparedi\source\repos\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.vbproj.ResolveComReference.cache
+C:\Users\lparedi\source\repos\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.Form1.resources
+C:\Users\lparedi\source\repos\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.Resources.resources
+C:\Users\lparedi\source\repos\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.vbproj.GenerateResource.cache
+C:\Users\lparedi\source\repos\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.vbproj.CoreCompileInputs.cache
+C:\Users\lparedi\source\repos\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.exe
+C:\Users\lparedi\source\repos\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.xml
+C:\Users\lparedi\source\repos\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.pdb
+C:\Users\lparedi\Desktop\wmbus-reader\WindowsApp2\bin\Debug\WindowsApp2.exe.config
+C:\Users\lparedi\Desktop\wmbus-reader\WindowsApp2\bin\Debug\WindowsApp2.exe
+C:\Users\lparedi\Desktop\wmbus-reader\WindowsApp2\bin\Debug\WindowsApp2.pdb
+C:\Users\lparedi\Desktop\wmbus-reader\WindowsApp2\bin\Debug\WindowsApp2.xml
+C:\Users\lparedi\Desktop\wmbus-reader\WindowsApp2\obj\Debug\WindowsApp2.vbproj.ResolveComReference.cache
+C:\Users\lparedi\Desktop\wmbus-reader\WindowsApp2\obj\Debug\WindowsApp2.Form1.resources
+C:\Users\lparedi\Desktop\wmbus-reader\WindowsApp2\obj\Debug\WindowsApp2.Resources.resources
+C:\Users\lparedi\Desktop\wmbus-reader\WindowsApp2\obj\Debug\WindowsApp2.vbproj.GenerateResource.cache
+C:\Users\lparedi\Desktop\wmbus-reader\WindowsApp2\obj\Debug\WindowsApp2.vbproj.CoreCompileInputs.cache
+C:\Users\lparedi\Desktop\wmbus-reader\WindowsApp2\obj\Debug\WindowsApp2.exe
+C:\Users\lparedi\Desktop\wmbus-reader\WindowsApp2\obj\Debug\WindowsApp2.xml
+C:\Users\lparedi\Desktop\wmbus-reader\WindowsApp2\obj\Debug\WindowsApp2.pdb
+C:\Users\lparedi\Desktop\wmbus-reader\WindowsApp2\obj\Debug\WindowsApp2.vbprojAssemblyReference.cache
+C:\Users\lparedi\Desktop\wmbus-reader\WindowsApp2\obj\Debug\Interop.MBT1ReceiverLibLib.dll
+C:\Users\lparedi\Desktop\NwoOld\Memopal Sync\wmbus-reader\WindowsApp2\bin\Debug\WindowsApp2.exe.config
+C:\Users\lparedi\Desktop\NwoOld\Memopal Sync\wmbus-reader\WindowsApp2\bin\Debug\WindowsApp2.exe
+C:\Users\lparedi\Desktop\NwoOld\Memopal Sync\wmbus-reader\WindowsApp2\bin\Debug\WindowsApp2.pdb
+C:\Users\lparedi\Desktop\NwoOld\Memopal Sync\wmbus-reader\WindowsApp2\bin\Debug\WindowsApp2.xml
+C:\Users\lparedi\Desktop\NwoOld\Memopal Sync\wmbus-reader\WindowsApp2\obj\Debug\Interop.MBT1ReceiverLibLib.dll
+C:\Users\lparedi\Desktop\NwoOld\Memopal Sync\wmbus-reader\WindowsApp2\obj\Debug\WindowsApp2.vbproj.ResolveComReference.cache
+C:\Users\lparedi\Desktop\NwoOld\Memopal Sync\wmbus-reader\WindowsApp2\obj\Debug\WindowsApp2.Form1.resources
+C:\Users\lparedi\Desktop\NwoOld\Memopal Sync\wmbus-reader\WindowsApp2\obj\Debug\WindowsApp2.Resources.resources
+C:\Users\lparedi\Desktop\NwoOld\Memopal Sync\wmbus-reader\WindowsApp2\obj\Debug\WindowsApp2.vbproj.GenerateResource.cache
+C:\Users\lparedi\Desktop\NwoOld\Memopal Sync\wmbus-reader\WindowsApp2\obj\Debug\WindowsApp2.vbproj.CoreCompileInputs.cache
+C:\Users\lparedi\Desktop\NwoOld\Memopal Sync\wmbus-reader\WindowsApp2\obj\Debug\WindowsApp2.exe
+C:\Users\lparedi\Desktop\NwoOld\Memopal Sync\wmbus-reader\WindowsApp2\obj\Debug\WindowsApp2.xml
+C:\Users\lparedi\Desktop\NwoOld\Memopal Sync\wmbus-reader\WindowsApp2\obj\Debug\WindowsApp2.pdb
+C:\Users\lparedi\Desktop\NwoOld\Memopal Sync\wmbus-reader\WindowsApp2\obj\Debug\WindowsApp2.vbprojAssemblyReference.cache
+C:\Users\lparedi\Desktop\LUCA\Letture2018\wmbus-reader\WindowsApp2\bin\Debug\WindowsApp2.exe.config
+C:\Users\lparedi\Desktop\LUCA\Letture2018\wmbus-reader\WindowsApp2\bin\Debug\WindowsApp2.exe
+C:\Users\lparedi\Desktop\LUCA\Letture2018\wmbus-reader\WindowsApp2\bin\Debug\WindowsApp2.pdb
+C:\Users\lparedi\Desktop\LUCA\Letture2018\wmbus-reader\WindowsApp2\bin\Debug\WindowsApp2.xml
+C:\Users\lparedi\Desktop\LUCA\Letture2018\wmbus-reader\WindowsApp2\obj\Debug\WindowsApp2.vbprojAssemblyReference.cache
+C:\Users\lparedi\Desktop\LUCA\Letture2018\wmbus-reader\WindowsApp2\obj\Debug\Interop.MBT1ReceiverLibLib.dll
+C:\Users\lparedi\Desktop\LUCA\Letture2018\wmbus-reader\WindowsApp2\obj\Debug\WindowsApp2.vbproj.ResolveComReference.cache
+C:\Users\lparedi\Desktop\LUCA\Letture2018\wmbus-reader\WindowsApp2\obj\Debug\WindowsApp2.Form1.resources
+C:\Users\lparedi\Desktop\LUCA\Letture2018\wmbus-reader\WindowsApp2\obj\Debug\WindowsApp2.Resources.resources
+C:\Users\lparedi\Desktop\LUCA\Letture2018\wmbus-reader\WindowsApp2\obj\Debug\WindowsApp2.vbproj.GenerateResource.cache
+C:\Users\lparedi\Desktop\LUCA\Letture2018\wmbus-reader\WindowsApp2\obj\Debug\WindowsApp2.vbproj.CoreCompileInputs.cache
+C:\Users\lparedi\Desktop\LUCA\Letture2018\wmbus-reader\WindowsApp2\obj\Debug\WindowsApp2.exe
+C:\Users\lparedi\Desktop\LUCA\Letture2018\wmbus-reader\WindowsApp2\obj\Debug\WindowsApp2.xml
+C:\Users\lparedi\Desktop\LUCA\Letture2018\wmbus-reader\WindowsApp2\obj\Debug\WindowsApp2.pdb
+C:\Users\lparedi\Desktop\LUCA\Letture2019\wmbus-reader\WindowsApp2\bin\Debug\WindowsApp2.exe.config
+C:\Users\lparedi\Desktop\LUCA\Letture2019\wmbus-reader\WindowsApp2\bin\Debug\WindowsApp2.exe
+C:\Users\lparedi\Desktop\LUCA\Letture2019\wmbus-reader\WindowsApp2\bin\Debug\WindowsApp2.pdb
+C:\Users\lparedi\Desktop\LUCA\Letture2019\wmbus-reader\WindowsApp2\bin\Debug\WindowsApp2.xml
+C:\Users\lparedi\Desktop\LUCA\Letture2019\wmbus-reader\WindowsApp2\obj\Debug\Interop.MBT1ReceiverLibLib.dll
+C:\Users\lparedi\Desktop\LUCA\Letture2019\wmbus-reader\WindowsApp2\obj\Debug\WindowsApp2.vbproj.ResolveComReference.cache
+C:\Users\lparedi\Desktop\LUCA\Letture2019\wmbus-reader\WindowsApp2\obj\Debug\WindowsApp2.Form1.resources
+C:\Users\lparedi\Desktop\LUCA\Letture2019\wmbus-reader\WindowsApp2\obj\Debug\WindowsApp2.Resources.resources
+C:\Users\lparedi\Desktop\LUCA\Letture2019\wmbus-reader\WindowsApp2\obj\Debug\WindowsApp2.vbproj.GenerateResource.cache
+C:\Users\lparedi\Desktop\LUCA\Letture2019\wmbus-reader\WindowsApp2\obj\Debug\WindowsApp2.vbproj.CoreCompileInputs.cache
+C:\Users\lparedi\Desktop\LUCA\Letture2019\wmbus-reader\WindowsApp2\obj\Debug\WindowsApp2.exe
+C:\Users\lparedi\Desktop\LUCA\Letture2019\wmbus-reader\WindowsApp2\obj\Debug\WindowsApp2.xml
+C:\Users\lparedi\Desktop\LUCA\Letture2019\wmbus-reader\WindowsApp2\obj\Debug\WindowsApp2.pdb
+C:\Users\lparedi\Desktop\LUCA\Letture2019\wmbus-reader\WindowsApp2\obj\Debug\WindowsApp2.vbprojAssemblyReference.cache
+C:\Users\lparedi\Desktop\LUCA\Letture2019\wmbus-reader - qnds\WindowsApp2\bin\Debug\WindowsApp2.exe.config
+C:\Users\lparedi\Desktop\LUCA\Letture2019\wmbus-reader - qnds\WindowsApp2\bin\Debug\WindowsApp2.exe
+C:\Users\lparedi\Desktop\LUCA\Letture2019\wmbus-reader - qnds\WindowsApp2\bin\Debug\WindowsApp2.pdb
+C:\Users\lparedi\Desktop\LUCA\Letture2019\wmbus-reader - qnds\WindowsApp2\bin\Debug\WindowsApp2.xml
+C:\Users\lparedi\Desktop\LUCA\Letture2019\wmbus-reader - qnds\WindowsApp2\obj\Debug\Interop.MBT1ReceiverLibLib.dll
+C:\Users\lparedi\Desktop\LUCA\Letture2019\wmbus-reader - qnds\WindowsApp2\obj\Debug\WindowsApp2.vbproj.ResolveComReference.cache
+C:\Users\lparedi\Desktop\LUCA\Letture2019\wmbus-reader - qnds\WindowsApp2\obj\Debug\WindowsApp2.Form1.resources
+C:\Users\lparedi\Desktop\LUCA\Letture2019\wmbus-reader - qnds\WindowsApp2\obj\Debug\WindowsApp2.Resources.resources
+C:\Users\lparedi\Desktop\LUCA\Letture2019\wmbus-reader - qnds\WindowsApp2\obj\Debug\WindowsApp2.vbproj.GenerateResource.cache
+C:\Users\lparedi\Desktop\LUCA\Letture2019\wmbus-reader - qnds\WindowsApp2\obj\Debug\WindowsApp2.vbproj.CoreCompileInputs.cache
+C:\Users\lparedi\Desktop\LUCA\Letture2019\wmbus-reader - qnds\WindowsApp2\obj\Debug\WindowsApp2.exe
+C:\Users\lparedi\Desktop\LUCA\Letture2019\wmbus-reader - qnds\WindowsApp2\obj\Debug\WindowsApp2.xml
+C:\Users\lparedi\Desktop\LUCA\Letture2019\wmbus-reader - qnds\WindowsApp2\obj\Debug\WindowsApp2.pdb
+C:\Users\lparedi\Desktop\LUCA\Letture2019\wmbus-reader - qnds\WindowsApp2\obj\Debug\WindowsApp2.vbprojAssemblyReference.cache
+C:\Users\lparedi\Desktop\LUCA\Letture2019\wmbus-reader - main\WindowsApp2\bin\Debug\WindowsApp2.exe.config
+C:\Users\lparedi\Desktop\LUCA\Letture2019\wmbus-reader - main\WindowsApp2\bin\Debug\WindowsApp2.exe
+C:\Users\lparedi\Desktop\LUCA\Letture2019\wmbus-reader - main\WindowsApp2\bin\Debug\WindowsApp2.pdb
+C:\Users\lparedi\Desktop\LUCA\Letture2019\wmbus-reader - main\WindowsApp2\bin\Debug\WindowsApp2.xml
+C:\Users\lparedi\Desktop\LUCA\Letture2019\wmbus-reader - main\WindowsApp2\obj\Debug\Interop.MBT1ReceiverLibLib.dll
+C:\Users\lparedi\Desktop\LUCA\Letture2019\wmbus-reader - main\WindowsApp2\obj\Debug\WindowsApp2.vbproj.ResolveComReference.cache
+C:\Users\lparedi\Desktop\LUCA\Letture2019\wmbus-reader - main\WindowsApp2\obj\Debug\WindowsApp2.Form1.resources
+C:\Users\lparedi\Desktop\LUCA\Letture2019\wmbus-reader - main\WindowsApp2\obj\Debug\WindowsApp2.Resources.resources
+C:\Users\lparedi\Desktop\LUCA\Letture2019\wmbus-reader - main\WindowsApp2\obj\Debug\WindowsApp2.vbproj.GenerateResource.cache
+C:\Users\lparedi\Desktop\LUCA\Letture2019\wmbus-reader - main\WindowsApp2\obj\Debug\WindowsApp2.exe
+C:\Users\lparedi\Desktop\LUCA\Letture2019\wmbus-reader - main\WindowsApp2\obj\Debug\WindowsApp2.xml
+C:\Users\lparedi\Desktop\LUCA\Letture2019\wmbus-reader - main\WindowsApp2\obj\Debug\WindowsApp2.pdb
+C:\Users\lparedi\Desktop\LUCA\Letture2019\wmbus-reader - main\WindowsApp2\obj\Debug\WindowsApp2.vbprojAssemblyReference.cache
+C:\Users\lparedi\Desktop\LUCA\SOFTWARE\APATOR\wmbus-reader - main\WindowsApp2\obj\Debug\WindowsApp2.vbproj.AssemblyReference.cache
